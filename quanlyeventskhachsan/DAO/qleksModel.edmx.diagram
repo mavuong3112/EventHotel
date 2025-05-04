@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="45eb8a83e3654324ae4d6f32ba913fcd" Name="Diagram1">
+        <EntityTypeShape EntityType="quanlyeventskhachsanModel.CO_SO" Width="1.5" PointX="1.5" PointY="17" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlyeventskhachsanModel.DANH_GIA" Width="1.5" PointX="3" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlyeventskhachsanModel.DANHGIA_DETAILS" Width="1.5" PointX="5.25" PointY="12.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlyeventskhachsanModel.DOI_TAC" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlyeventskhachsanModel.HANG_MUC" Width="1.5" PointX="3" PointY="20.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlyeventskhachsanModel.HD_DOITAC" Width="1.5" PointX="3" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlyeventskhachsanModel.HD_NHAN_VIEN" Width="1.5" PointX="6" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlyeventskhachsanModel.HD_QUANLY" Width="1.5" PointX="3" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlyeventskhachsanModel.HD_TAITRO" Width="1.5" PointX="6" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlyeventskhachsanModel.HOAT_DONG" Width="1.5" PointX="0.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlyeventskhachsanModel.NHAN_VIEN" Width="1.5" PointX="0.75" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlyeventskhachsanModel.PHU_TRACH" Width="1.5" PointX="3" PointY="27.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlyeventskhachsanModel.QUAN_LY" Width="1.5" PointX="0.75" PointY="21" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlyeventskhachsanModel.TAI_CHINH" Width="1.5" PointX="3" PointY="23.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlyeventskhachsanModel.TAI_TRO" Width="1.5" PointX="3.75" PointY="3.125" IsExpanded="true" />
+        <AssociationConnector Association="quanlyeventskhachsanModel.FK_NHAN_VIEN_CO_SO" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlyeventskhachsanModel.FK_QUAN_LY_CO_SO" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlyeventskhachsanModel.FK_DANH_GIA_HOAT_DONG" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlyeventskhachsanModel.FK_DANH_GIA_NHAN_VIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlyeventskhachsanModel.FK_DANHGIA_DETAILS_DANH_GIA" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlyeventskhachsanModel.FK_DANHGIA_DETAILS_HANG_MUC" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlyeventskhachsanModel.FK_DT_HOATDONG_DOI_TAC" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlyeventskhachsanModel.FK_DT_HOATDONG_HOAT_DONG" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlyeventskhachsanModel.FK_NV_HOATDONG_HOAT_DONG" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlyeventskhachsanModel.FK_SV_HOATDONG_NHAN_VIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlyeventskhachsanModel.FK_HD_QUANLY_HD" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlyeventskhachsanModel.FK_HD_QUANLY_QUAN_LY" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlyeventskhachsanModel.FK_HD_TAITRO_HD" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlyeventskhachsanModel.FK_HD_TAITRO_TAITRO" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlyeventskhachsanModel.FK_TAI_CHINH_HOAT_DONG" ManuallyRouted="false" />
+        <AssociationConnector Association="quanlyeventskhachsanModel.FK_PHU_TRACH_QUAN_LY" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,753 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|c:\\users\\ndt13\\downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\properties\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\properties\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|quanlyeventskhachsan||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmAddHoatDong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\UI\\frmAddHoatDong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\frmaddhoatdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\frmaddhoatdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\frm_theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\frm_theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\frmviewhoatdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\frmviewhoatdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_Theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\UI\\frm_Theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\frmviewhoatdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\frmviewhoatdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\model\\co_so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\model\\co_so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\frm_doitac_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\frm_doitac_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\frm_coso_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\frm_coso_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\model\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\model\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\frmttdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\frmttdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTTDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\UI\\frmTTDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_NhanVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\UI\\frmTK_NhanVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\frmtk_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\frmtk_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\frmtk_taichinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\frmtk_taichinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\frmtk_doitac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\frmtk_doitac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_CoSoQL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\UI\\frmTK_CoSoQL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\frmtk_cosoql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\frmtk_cosoql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_CoSo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\UI\\frmTK_CoSo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\frmtk_coso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\frmtk_coso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_DoiTac_Details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\UI\\frm_DoiTac_Details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\frmaddhangmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\frmaddhangmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\frm_quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\frm_quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\frmaddhangmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\frmaddhangmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\dao\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\dao\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\DAO\\Connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\DAO\\Connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\dao\\qleksmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\dao\\qleksmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\MODEL\\HOAT_DONG.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\MODEL\\HOAT_DONG.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmViewHoatDong.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\UI\\frmViewHoatDong.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\MODEL\\HD_QUANLY.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\MODEL\\HD_QUANLY.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmNhanVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\UI\\frmNhanVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_TaiTro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\UI\\frmTK_TaiTro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\frmtk_taitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\frmtk_taitro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_TaiChinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\UI\\frmTK_TaiChinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_QuanLy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\UI\\frmTK_QuanLy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\ui\\frmtk_quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\ui\\frmtk_quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_CoSo_Details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\UI\\frm_CoSo_Details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_DoiTac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\UI\\frmTK_DoiTac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_QuanLy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|solutionrelative:quanlyeventskhachsan\\UI\\frm_QuanLy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E57C290-1C3B-497F-A439-16E195D0FCDD}|quanlyeventskhachsan\\quanlyeventskhachsan.csproj|c:\\users\\ndt13\\downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAddHoatDong.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmAddHoatDong.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmAddHoatDong.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmAddHoatDong.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmAddHoatDong.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAMwIUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:15:18.828Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\Properties\\app.manifest",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\Properties\\app.manifest",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\Properties\\app.manifest",
+              "RelativeToolTip": "quanlyeventskhachsan\\Properties\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-01-06T04:55:12.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quanlyeventskhachsan",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan.csproj",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\quanlyeventskhachsan.csproj",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan.csproj",
+              "RelativeToolTip": "quanlyeventskhachsan\\quanlyeventskhachsan.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-06T02:33:19.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_Theme.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_Theme.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frm_Theme.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_Theme.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frm_Theme.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAMwFkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:49:22.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_Theme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_Theme.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frm_Theme.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_Theme.cs [Design]",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frm_Theme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:49:17.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmViewHoatDong.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmViewHoatDong.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmViewHoatDong.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmViewHoatDong.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmViewHoatDong.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAcwFgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T00:54:41.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAddHoatDong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmAddHoatDong.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmAddHoatDong.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmAddHoatDong.cs [Design]",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmAddHoatDong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:30:14.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmViewHoatDong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmViewHoatDong.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmViewHoatDong.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmViewHoatDong.cs [Design]",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmViewHoatDong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:27:39.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\Home.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\Home.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\Home.cs [Design]",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:09:29.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Co_So.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\MODEL\\Co_So.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\MODEL\\Co_So.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\MODEL\\Co_So.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\MODEL\\Co_So.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T01:29:35.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frm_CoSo_Details.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_CoSo_Details.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frm_CoSo_Details.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_CoSo_Details.cs [Design]",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frm_CoSo_Details.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:15:35.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frm_DoiTac_Details.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_DoiTac_Details.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frm_DoiTac_Details.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_DoiTac_Details.cs [Design]",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frm_DoiTac_Details.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:13:51.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmTK_DoiTac.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_DoiTac.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmTK_DoiTac.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_DoiTac.cs [Design]",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmTK_DoiTac.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:12:27.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmTK_CoSoQL.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_CoSoQL.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmTK_CoSoQL.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_CoSoQL.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmTK_CoSoQL.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAvwGYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:16:28.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\MODEL\\Context.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\MODEL\\Context.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\MODEL\\Context.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\MODEL\\Context.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:00:30.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmTTDetails.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTTDetails.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmTTDetails.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTTDetails.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmTTDetails.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAMwK0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:27:17.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmTTDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTTDetails.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmTTDetails.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTTDetails.cs [Design]",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmTTDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:27:15.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmTK_NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_NhanVien.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmTK_NhanVien.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_NhanVien.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmTK_NhanVien.cs",
+              "ViewState": "AgIAAF8BAAAAAAAAAADgv3cBAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:26:35.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmTK_NhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_NhanVien.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmTK_NhanVien.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_NhanVien.cs [Design]",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmTK_NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:18:28.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmTK_TaiChinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_TaiChinh.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmTK_TaiChinh.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_TaiChinh.cs [Design]",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmTK_TaiChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:18:46.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmTK_CoSoQL.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_CoSoQL.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmTK_CoSoQL.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_CoSoQL.cs [Design]",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmTK_CoSoQL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:16:12.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmTK_CoSo.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_CoSo.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmTK_CoSo.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_CoSo.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmTK_CoSo.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAvwIMAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:16:06.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmTK_CoSo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_CoSo.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmTK_CoSo.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_CoSo.cs [Design]",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmTK_CoSo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:16:03.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmAddHangMuc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmAddHangMuc.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmAddHangMuc.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmAddHangMuc.cs [Design]",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmAddHangMuc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:16:00.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frm_DoiTac_Details.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_DoiTac_Details.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frm_DoiTac_Details.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_DoiTac_Details.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frm_DoiTac_Details.cs",
+              "ViewState": "AgIAABcBAAAAAAAAAAAewC8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:13:53.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frm_QuanLy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_QuanLy.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frm_QuanLy.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_QuanLy.cs [Design]",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frm_QuanLy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:49:00.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmAddHangMuc.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmAddHangMuc.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmAddHangMuc.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmAddHangMuc.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmAddHangMuc.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAA9wGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T06:54:09.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:02:20.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\packages.config",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\packages.config",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\packages.config",
+              "RelativeToolTip": "quanlyeventskhachsan\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-04T19:06:04.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\App.config",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\App.config",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\App.config",
+              "RelativeToolTip": "quanlyeventskhachsan\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-04T07:06:33.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Connect.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\DAO\\Connect.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\DAO\\Connect.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\DAO\\Connect.cs [Design]",
+              "RelativeToolTip": "quanlyeventskhachsan\\DAO\\Connect.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:57:34.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\Home.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\Home.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\Home.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\Home.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwCEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:09:30.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Connect.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\DAO\\Connect.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\DAO\\Connect.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\DAO\\Connect.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\DAO\\Connect.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:10:39.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "qleksModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\DAO\\qleksModel.edmx",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\DAO\\qleksModel.edmx",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\DAO\\qleksModel.edmx [Diagram1]",
+              "RelativeToolTip": "quanlyeventskhachsan\\DAO\\qleksModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-01-04T07:22:52.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HOAT_DONG.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\MODEL\\HOAT_DONG.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\MODEL\\HOAT_DONG.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\MODEL\\HOAT_DONG.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\MODEL\\HOAT_DONG.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:48:47.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmViewHoatDong.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmViewHoatDong.Designer.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmViewHoatDong.Designer.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmViewHoatDong.Designer.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmViewHoatDong.Designer.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAHcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:24:40.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HD_QUANLY.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\MODEL\\HD_QUANLY.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\MODEL\\HD_QUANLY.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\MODEL\\HD_QUANLY.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\MODEL\\HD_QUANLY.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T05:19:45.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmNhanVien.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmNhanVien.cs",
+              "ViewState": "AgIAAHUBAAAAAAAAAAAwwIoBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:02:22.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmTK_TaiTro.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_TaiTro.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmTK_TaiTro.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_TaiTro.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmTK_TaiTro.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv3IAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:26:16.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmTK_TaiTro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_TaiTro.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmTK_TaiTro.cs",
+              "ToolTip": "C:\\Users\\nvhgi\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_TaiTro.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\nvhgi\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_TaiTro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:18:59.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmTK_TaiChinh.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_TaiChinh.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmTK_TaiChinh.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_TaiChinh.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmTK_TaiChinh.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAADwv00AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:18:48.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmTK_QuanLy.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_QuanLy.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmTK_QuanLy.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_QuanLy.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmTK_QuanLy.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAADwv3kAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:18:33.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmTK_QuanLy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_QuanLy.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmTK_QuanLy.cs",
+              "ToolTip": "C:\\Users\\nvhgi\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_QuanLy.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\nvhgi\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_QuanLy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:18:31.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frm_CoSo_Details.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_CoSo_Details.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frm_CoSo_Details.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_CoSo_Details.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frm_CoSo_Details.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEABAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:15:39.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmTK_DoiTac.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_DoiTac.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frmTK_DoiTac.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frmTK_DoiTac.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frmTK_DoiTac.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAwwHIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:12:30.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frm_QuanLy.cs",
+              "DocumentMoniker": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_QuanLy.cs",
+              "RelativeDocumentMoniker": "quanlyeventskhachsan\\UI\\frm_QuanLy.cs",
+              "ToolTip": "C:\\Users\\NDT13\\Downloads\\quanlyeventskhachsan\\quanlyeventskhachsan\\quanlyeventskhachsan\\UI\\frm_QuanLy.cs",
+              "RelativeToolTip": "quanlyeventskhachsan\\UI\\frm_QuanLy.cs",
+              "ViewState": "AgIAAKkBAAAAAAAAAAAcwJwBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:49:02.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

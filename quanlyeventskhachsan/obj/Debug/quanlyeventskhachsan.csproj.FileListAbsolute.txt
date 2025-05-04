@@ -1,0 +1,752 @@
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.AssemblyReference.cache
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.GenerateResource.cache
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe.config
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.pdb
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Design.dll
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Docking.dll
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.Interfaces.dll
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\bin\Debug\Guna.UI2.dll
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.dll
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.Properties.Resources.resources
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.CoreCompileInputs.cache
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\obj\Debug\quanlyev.39443FC7.Up2Date
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.exe
+D:\Dev\Desktop\quanlyeventskhachsankhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.pdb
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.AssemblyReference.cache
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.Properties.Resources.resources
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHangMuc.resources
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHoatDong.resources
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_DoiTac.resources
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_Khoa.resources
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_KhoaGV.resources
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiChinh.resources
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiTro.resources
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTTDetails.resources
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmViewHoatDong.resources
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_DoiTac_Details.resources
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_Theme.resources
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmHome.resources
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.GenerateResource.cache
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.CoreCompileInputs.cache
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe.config
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.pdb
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Design.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Docking.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.Interfaces.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.System.Drawing.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Guna.UI2.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.ComponentModel.Annotations.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Design.pdb
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.xml
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.xml
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.xml
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.xml
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.xml
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.xml
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.xml
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.pdb
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.xml
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.xml
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.xml
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.xml
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.xml
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyev.39443FC7.Up2Date
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.exe
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.pdb
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe.config
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.pdb
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.Interfaces.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.System.Drawing.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Guna.UI2.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.ComponentModel.Annotations.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Design.pdb
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.pdb
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.AssemblyReference.cache
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.Properties.Resources.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHangMuc.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHoatDong.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmKhoaDetails.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmSinhVien.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_DoiTac.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_GiangVien.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_Khoa.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_KhoaGV.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_SinhVien.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiChinh.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiTro.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTTDetails.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmViewHoatDong.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_DoiTac_Details.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_GiangVien.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_Theme.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmHome.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.GenerateResource.cache
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.CoreCompileInputs.cache
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyev.39443FC7.Up2Date
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.exe
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.pdb
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_QuanLy.resources
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_CoSo_Details.resources
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmNhanVien.resources
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_QuanLy.resources
+G:\Desktop\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_NhanVien.resources
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe.config
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.pdb
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Guna.UI2.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.xml
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.xml
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.xml
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.xml
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.pdb
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.xml
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.xml
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.xml
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.xml
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.AssemblyReference.cache
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.Properties.Resources.resources
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHangMuc.resources
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHoatDong.resources
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_CoSo_Details.resources
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmNhanVien.resources
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_DoiTac.resources
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_QuanLy.resources
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_NhanVien.resources
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiChinh.resources
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiTro.resources
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTTDetails.resources
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmViewHoatDong.resources
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_DoiTac_Details.resources
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_QuanLy.resources
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_Theme.resources
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmHome.resources
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.GenerateResource.cache
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.CoreCompileInputs.cache
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyev.39443FC7.Up2Date
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.exe
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.pdb
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_CoSoQL.resources
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_CoSo.resources
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe.config
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.pdb
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Guna.UI2.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Design.pdb
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.xml
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.xml
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.xml
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.xml
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.pdb
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.xml
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.xml
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.xml
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.xml
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.AssemblyReference.cache
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.Properties.Resources.resources
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHangMuc.resources
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHoatDong.resources
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_CoSo_Details.resources
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmNhanVien.resources
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_DoiTac.resources
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_QuanLy.resources
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_CoSo.resources
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_CoSoQL.resources
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_NhanVien.resources
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiChinh.resources
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiTro.resources
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTTDetails.resources
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmViewHoatDong.resources
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_DoiTac_Details.resources
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_QuanLy.resources
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_Theme.resources
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmHome.resources
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.GenerateResource.cache
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.CoreCompileInputs.cache
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyev.39443FC7.Up2Date
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.exe
+C:\Users\NDT13\Documents\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.pdb
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe.config
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.pdb
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.Interfaces.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.System.Drawing.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Guna.UI2.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.ComponentModel.Annotations.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Design.pdb
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.xml
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.xml
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.xml
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.xml
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.xml
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.xml
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.xml
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.pdb
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.xml
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.xml
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.xml
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.xml
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.xml
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.AssemblyReference.cache
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.Properties.Resources.resources
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHangMuc.resources
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHoatDong.resources
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_CoSo_Details.resources
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmNhanVien.resources
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_DoiTac.resources
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_QuanLy.resources
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_CoSo.resources
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_CoSoQL.resources
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_NhanVien.resources
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiChinh.resources
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiTro.resources
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTTDetails.resources
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmViewHoatDong.resources
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_DoiTac_Details.resources
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_QuanLy.resources
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_Theme.resources
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmHome.resources
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.GenerateResource.cache
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.CoreCompileInputs.cache
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyev.39443FC7.Up2Date
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.exe
+G:\pj\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.pdb
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.AssemblyReference.cache
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.Properties.Resources.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHangMuc.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHoatDong.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_CoSo_Details.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmNhanVien.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_DoiTac.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_QuanLy.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_CoSo.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_CoSoQL.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_NhanVien.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiChinh.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiTro.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTTDetails.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmViewHoatDong.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_DoiTac_Details.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_QuanLy.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_Theme.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmHome.resources
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.GenerateResource.cache
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.CoreCompileInputs.cache
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.exe
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.pdb
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe.config
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.pdb
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.Interfaces.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.System.Drawing.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Guna.UI2.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.ComponentModel.Annotations.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Design.pdb
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.pdb
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GitHub\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyev.39443FC7.Up2Date
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Design.pdb
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\NDT13\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe.config
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.pdb
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Guna.UI2.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Design.pdb
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.xml
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.xml
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.xml
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.xml
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.pdb
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.xml
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.xml
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.xml
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.xml
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.AssemblyReference.cache
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.Properties.Resources.resources
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHangMuc.resources
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHoatDong.resources
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_CoSo_Details.resources
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmNhanVien.resources
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_DoiTac.resources
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_QuanLy.resources
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_CoSo.resources
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_CoSoQL.resources
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_NhanVien.resources
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiChinh.resources
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiTro.resources
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTTDetails.resources
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmViewHoatDong.resources
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_DoiTac_Details.resources
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_QuanLy.resources
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_Theme.resources
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmHome.resources
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.GenerateResource.cache
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.CoreCompileInputs.cache
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyev.39443FC7.Up2Date
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.exe
+C:\Users\NDT13\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.pdb
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe.config
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.pdb
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Guna.UI2.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Design.pdb
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.xml
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.xml
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.xml
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.xml
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.pdb
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.xml
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.xml
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.xml
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.xml
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.AssemblyReference.cache
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.Properties.Resources.resources
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHangMuc.resources
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHoatDong.resources
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_CoSo_Details.resources
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmNhanVien.resources
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_DoiTac.resources
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_QuanLy.resources
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_CoSo.resources
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_CoSoQL.resources
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_NhanVien.resources
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiChinh.resources
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiTro.resources
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTTDetails.resources
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmViewHoatDong.resources
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_DoiTac_Details.resources
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_QuanLy.resources
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_Theme.resources
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmHome.resources
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.GenerateResource.cache
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.CoreCompileInputs.cache
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyev.39443FC7.Up2Date
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.exe
+C:\Users\NDT13\quanlyeventskhachsan (3)\quanlyeventskhachsan (2)\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.pdb
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe.config
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.pdb
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Guna.UI2.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Design.pdb
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.xml
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.xml
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.xml
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.xml
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.pdb
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.xml
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.xml
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.xml
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.xml
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.AssemblyReference.cache
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.Properties.Resources.resources
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHangMuc.resources
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHoatDong.resources
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_CoSo_Details.resources
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmNhanVien.resources
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_DoiTac.resources
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_QuanLy.resources
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_CoSo.resources
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_CoSoQL.resources
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_NhanVien.resources
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiChinh.resources
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiTro.resources
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTTDetails.resources
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmViewHoatDong.resources
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_DoiTac_Details.resources
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_QuanLy.resources
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_Theme.resources
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmHome.resources
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.GenerateResource.cache
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.CoreCompileInputs.cache
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyev.39443FC7.Up2Date
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.exe
+C:\Users\nvhgi\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.pdb
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.AssemblyReference.cache
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.exe
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.pdb
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe.config
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.pdb
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Guna.UI2.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Design.pdb
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.xml
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\EPPlus.xml
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\StackExchange.Redis.xml
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Buffers.xml
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.pdb
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Drawing.Common.xml
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.IO.Pipelines.xml
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Memory.xml
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Channels.xml
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.Properties.Resources.resources
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHangMuc.resources
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmAddHoatDong.resources
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_CoSo_Details.resources
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmNhanVien.resources
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_DoiTac.resources
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_QuanLy.resources
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_CoSo.resources
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_CoSoQL.resources
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_NhanVien.resources
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiChinh.resources
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTK_TaiTro.resources
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmTTDetails.resources
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmViewHoatDong.resources
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_DoiTac_Details.resources
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_QuanLy.resources
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frm_Theme.resources
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.UI.frmHome.resources
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.GenerateResource.cache
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.csproj.CoreCompileInputs.cache
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyev.39443FC7.Up2Date
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.exe.manifest
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\bin\Debug\quanlyeventskhachsan.application
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.TrustInfo.xml
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.exe.manifest
+C:\Users\NDT13\Downloads\quanlyeventskhachsan\quanlyeventskhachsan\quanlyeventskhachsan\obj\Debug\quanlyeventskhachsan.application

@@ -1,0 +1,459 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="quanlyeventskhachsanModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CO_SO">
+    <Key>
+      <PropertyRef Name="MaCoSo" />
+    </Key>
+    <Property Name="MaCoSo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TenCoSo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SDT" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="NgayThanhLap" Type="DateTime" />
+    <Property Name="Hide" Type="Boolean" />
+    <NavigationProperty Name="NHAN_VIEN" Relationship="Self.FK_NHAN_VIEN_CO_SO" FromRole="CO_SO" ToRole="NHAN_VIEN" />
+    <NavigationProperty Name="QUAN_LY" Relationship="Self.FK_QUAN_LY_CO_SO" FromRole="CO_SO" ToRole="QUAN_LY" />
+  </EntityType>
+  <EntityType Name="DANH_GIA">
+    <Key>
+      <PropertyRef Name="MaDanhGia" />
+    </Key>
+    <Property Name="MaDanhGia" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MaHD" Type="Int32" Nullable="false" />
+    <Property Name="MSNV" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="NoiDung" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Hide" Type="Boolean" />
+    <NavigationProperty Name="HOAT_DONG" Relationship="Self.FK_DANH_GIA_HOAT_DONG" FromRole="DANH_GIA" ToRole="HOAT_DONG" />
+    <NavigationProperty Name="NHAN_VIEN" Relationship="Self.FK_DANH_GIA_NHAN_VIEN" FromRole="DANH_GIA" ToRole="NHAN_VIEN" />
+    <NavigationProperty Name="DANHGIA_DETAILS" Relationship="Self.FK_DANHGIA_DETAILS_DANH_GIA" FromRole="DANH_GIA" ToRole="DANHGIA_DETAILS" />
+  </EntityType>
+  <EntityType Name="DANHGIA_DETAILS">
+    <Key>
+      <PropertyRef Name="MaDanhGia" />
+      <PropertyRef Name="HangMuc" />
+    </Key>
+    <Property Name="MaDanhGia" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="HangMuc" Type="Int32" Nullable="false" />
+    <Property Name="MucDo" Type="Int32" />
+    <Property Name="GhiChu" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="DANH_GIA" Relationship="Self.FK_DANHGIA_DETAILS_DANH_GIA" FromRole="DANHGIA_DETAILS" ToRole="DANH_GIA" />
+    <NavigationProperty Name="HANG_MUC" Relationship="Self.FK_DANHGIA_DETAILS_HANG_MUC" FromRole="DANHGIA_DETAILS" ToRole="HANG_MUC" />
+  </EntityType>
+  <EntityType Name="DOI_TAC">
+    <Key>
+      <PropertyRef Name="ID_DoiTac" />
+    </Key>
+    <Property Name="ID_DoiTac" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenDoiTac" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="DaiDien" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SDT" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Hide" Type="Boolean" />
+    <NavigationProperty Name="HD_DOITAC" Relationship="Self.FK_DT_HOATDONG_DOI_TAC" FromRole="DOI_TAC" ToRole="HD_DOITAC" />
+  </EntityType>
+  <EntityType Name="HANG_MUC">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenHangMuc" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Hide" Type="Boolean" />
+    <NavigationProperty Name="DANHGIA_DETAILS" Relationship="Self.FK_DANHGIA_DETAILS_HANG_MUC" FromRole="HANG_MUC" ToRole="DANHGIA_DETAILS" />
+  </EntityType>
+  <EntityType Name="HD_DOITAC">
+    <Key>
+      <PropertyRef Name="ID_DoiTac" />
+      <PropertyRef Name="MaHD" />
+    </Key>
+    <Property Name="ID_DoiTac" Type="Int32" Nullable="false" />
+    <Property Name="MaHD" Type="Int32" Nullable="false" />
+    <Property Name="NoiDung" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="DOI_TAC" Relationship="Self.FK_DT_HOATDONG_DOI_TAC" FromRole="HD_DOITAC" ToRole="DOI_TAC" />
+    <NavigationProperty Name="HOAT_DONG" Relationship="Self.FK_DT_HOATDONG_HOAT_DONG" FromRole="HD_DOITAC" ToRole="HOAT_DONG" />
+  </EntityType>
+  <EntityType Name="HD_NHAN_VIEN">
+    <Key>
+      <PropertyRef Name="MaHD" />
+      <PropertyRef Name="MSNV" />
+    </Key>
+    <Property Name="MaHD" Type="Int32" Nullable="false" />
+    <Property Name="MSNV" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="VaiTro" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="GhiChu" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="HOAT_DONG" Relationship="Self.FK_NV_HOATDONG_HOAT_DONG" FromRole="HD_NHAN_VIEN" ToRole="HOAT_DONG" />
+    <NavigationProperty Name="NHAN_VIEN" Relationship="Self.FK_SV_HOATDONG_NHAN_VIEN" FromRole="HD_NHAN_VIEN" ToRole="NHAN_VIEN" />
+  </EntityType>
+  <EntityType Name="HD_QUANLY">
+    <Key>
+      <PropertyRef Name="MaHD" />
+      <PropertyRef Name="MaQL" />
+    </Key>
+    <Property Name="MaHD" Type="Int32" Nullable="false" />
+    <Property Name="MaQL" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="VaiTro" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="HOAT_DONG" Relationship="Self.FK_HD_QUANLY_HD" FromRole="HD_QUANLY" ToRole="HOAT_DONG" />
+    <NavigationProperty Name="QUAN_LY" Relationship="Self.FK_HD_QUANLY_QUAN_LY" FromRole="HD_QUANLY" ToRole="QUAN_LY" />
+  </EntityType>
+  <EntityType Name="HD_TAITRO">
+    <Key>
+      <PropertyRef Name="ID_TaiTro" />
+      <PropertyRef Name="MaHD" />
+    </Key>
+    <Property Name="ID_TaiTro" Type="Int32" Nullable="false" />
+    <Property Name="MaHD" Type="Int32" Nullable="false" />
+    <Property Name="NoiDung" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="HOAT_DONG" Relationship="Self.FK_HD_TAITRO_HD" FromRole="HD_TAITRO" ToRole="HOAT_DONG" />
+    <NavigationProperty Name="TAI_TRO" Relationship="Self.FK_HD_TAITRO_TAITRO" FromRole="HD_TAITRO" ToRole="TAI_TRO" />
+  </EntityType>
+  <EntityType Name="HOAT_DONG">
+    <Key>
+      <PropertyRef Name="MaHD" />
+    </Key>
+    <Property Name="MaHD" Type="Int32" Nullable="false" />
+    <Property Name="TenHoatDong" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Loai" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NgayBatDau" Type="DateTime" />
+    <Property Name="NgayKetThuc" Type="DateTime" />
+    <Property Name="Hide" Type="Boolean" />
+    <Property Name="CreatedDate" Type="DateTime" />
+    <NavigationProperty Name="DANH_GIA" Relationship="Self.FK_DANH_GIA_HOAT_DONG" FromRole="HOAT_DONG" ToRole="DANH_GIA" />
+    <NavigationProperty Name="HD_DOITAC" Relationship="Self.FK_DT_HOATDONG_HOAT_DONG" FromRole="HOAT_DONG" ToRole="HD_DOITAC" />
+    <NavigationProperty Name="HD_NHAN_VIEN" Relationship="Self.FK_NV_HOATDONG_HOAT_DONG" FromRole="HOAT_DONG" ToRole="HD_NHAN_VIEN" />
+    <NavigationProperty Name="HD_QUANLY" Relationship="Self.FK_HD_QUANLY_HD" FromRole="HOAT_DONG" ToRole="HD_QUANLY" />
+    <NavigationProperty Name="HD_TAITRO" Relationship="Self.FK_HD_TAITRO_HD" FromRole="HOAT_DONG" ToRole="HD_TAITRO" />
+    <NavigationProperty Name="TAI_CHINH" Relationship="Self.FK_TAI_CHINH_HOAT_DONG" FromRole="HOAT_DONG" ToRole="TAI_CHINH" />
+  </EntityType>
+  <EntityType Name="NHAN_VIEN">
+    <Key>
+      <PropertyRef Name="MSNV" />
+    </Key>
+    <Property Name="MSNV" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="HoTen" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="CoSo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Hide" Type="Boolean" />
+    <NavigationProperty Name="CO_SO" Relationship="Self.FK_NHAN_VIEN_CO_SO" FromRole="NHAN_VIEN" ToRole="CO_SO" />
+    <NavigationProperty Name="DANH_GIA" Relationship="Self.FK_DANH_GIA_NHAN_VIEN" FromRole="NHAN_VIEN" ToRole="DANH_GIA" />
+    <NavigationProperty Name="HD_NHAN_VIEN" Relationship="Self.FK_SV_HOATDONG_NHAN_VIEN" FromRole="NHAN_VIEN" ToRole="HD_NHAN_VIEN" />
+  </EntityType>
+  <EntityType Name="PHU_TRACH">
+    <Key>
+      <PropertyRef Name="MaQL" />
+      <PropertyRef Name="SuKien" />
+    </Key>
+    <Property Name="MaQL" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SuKien" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="GhiChu" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="QUAN_LY" Relationship="Self.FK_PHU_TRACH_QUAN_LY" FromRole="PHU_TRACH" ToRole="QUAN_LY" />
+  </EntityType>
+  <EntityType Name="QUAN_LY">
+    <Key>
+      <PropertyRef Name="MaQL" />
+    </Key>
+    <Property Name="MaQL" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="HoTenLot" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Ten" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CoSo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Hide" Type="Boolean" />
+    <NavigationProperty Name="CO_SO" Relationship="Self.FK_QUAN_LY_CO_SO" FromRole="QUAN_LY" ToRole="CO_SO" />
+    <NavigationProperty Name="HD_QUANLY" Relationship="Self.FK_HD_QUANLY_QUAN_LY" FromRole="QUAN_LY" ToRole="HD_QUANLY" />
+    <NavigationProperty Name="PHU_TRACH" Relationship="Self.FK_PHU_TRACH_QUAN_LY" FromRole="QUAN_LY" ToRole="PHU_TRACH" />
+  </EntityType>
+  <EntityType Name="TAI_CHINH">
+    <Key>
+      <PropertyRef Name="ID_TaiChinh" />
+    </Key>
+    <Property Name="ID_TaiChinh" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MaHD" Type="Int32" Nullable="false" />
+    <Property Name="UEF" Type="Decimal" Precision="12" Scale="0" />
+    <Property Name="TaiTro" Type="Decimal" Precision="12" Scale="0" />
+    <Property Name="Khac" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="TieuDe" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CreatedDate" Type="DateTime" />
+    <Property Name="Hide" Type="Boolean" />
+    <NavigationProperty Name="HOAT_DONG" Relationship="Self.FK_TAI_CHINH_HOAT_DONG" FromRole="TAI_CHINH" ToRole="HOAT_DONG" />
+  </EntityType>
+  <EntityType Name="TAI_TRO">
+    <Key>
+      <PropertyRef Name="ID_TaiTro" />
+    </Key>
+    <Property Name="ID_TaiTro" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenTaiTro" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="DaiDien" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SDT" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Hide" Type="Boolean" />
+    <NavigationProperty Name="HD_TAITRO" Relationship="Self.FK_HD_TAITRO_TAITRO" FromRole="TAI_TRO" ToRole="HD_TAITRO" />
+  </EntityType>
+  <Association Name="FK_NHAN_VIEN_CO_SO">
+    <End Role="CO_SO" Type="Self.CO_SO" Multiplicity="0..1" />
+    <End Role="NHAN_VIEN" Type="Self.NHAN_VIEN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CO_SO">
+        <PropertyRef Name="MaCoSo" />
+      </Principal>
+      <Dependent Role="NHAN_VIEN">
+        <PropertyRef Name="CoSo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_QUAN_LY_CO_SO">
+    <End Role="CO_SO" Type="Self.CO_SO" Multiplicity="0..1" />
+    <End Role="QUAN_LY" Type="Self.QUAN_LY" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CO_SO">
+        <PropertyRef Name="MaCoSo" />
+      </Principal>
+      <Dependent Role="QUAN_LY">
+        <PropertyRef Name="CoSo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DANH_GIA_HOAT_DONG">
+    <End Role="HOAT_DONG" Type="Self.HOAT_DONG" Multiplicity="1" />
+    <End Role="DANH_GIA" Type="Self.DANH_GIA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HOAT_DONG">
+        <PropertyRef Name="MaHD" />
+      </Principal>
+      <Dependent Role="DANH_GIA">
+        <PropertyRef Name="MaHD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DANH_GIA_NHAN_VIEN">
+    <End Role="NHAN_VIEN" Type="Self.NHAN_VIEN" Multiplicity="0..1" />
+    <End Role="DANH_GIA" Type="Self.DANH_GIA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NHAN_VIEN">
+        <PropertyRef Name="MSNV" />
+      </Principal>
+      <Dependent Role="DANH_GIA">
+        <PropertyRef Name="MSNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DANHGIA_DETAILS_DANH_GIA">
+    <End Role="DANH_GIA" Type="Self.DANH_GIA" Multiplicity="1" />
+    <End Role="DANHGIA_DETAILS" Type="Self.DANHGIA_DETAILS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DANH_GIA">
+        <PropertyRef Name="MaDanhGia" />
+      </Principal>
+      <Dependent Role="DANHGIA_DETAILS">
+        <PropertyRef Name="MaDanhGia" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DANHGIA_DETAILS_HANG_MUC">
+    <End Role="HANG_MUC" Type="Self.HANG_MUC" Multiplicity="1" />
+    <End Role="DANHGIA_DETAILS" Type="Self.DANHGIA_DETAILS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HANG_MUC">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="DANHGIA_DETAILS">
+        <PropertyRef Name="HangMuc" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DT_HOATDONG_DOI_TAC">
+    <End Role="DOI_TAC" Type="Self.DOI_TAC" Multiplicity="1" />
+    <End Role="HD_DOITAC" Type="Self.HD_DOITAC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DOI_TAC">
+        <PropertyRef Name="ID_DoiTac" />
+      </Principal>
+      <Dependent Role="HD_DOITAC">
+        <PropertyRef Name="ID_DoiTac" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DT_HOATDONG_HOAT_DONG">
+    <End Role="HOAT_DONG" Type="Self.HOAT_DONG" Multiplicity="1" />
+    <End Role="HD_DOITAC" Type="Self.HD_DOITAC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HOAT_DONG">
+        <PropertyRef Name="MaHD" />
+      </Principal>
+      <Dependent Role="HD_DOITAC">
+        <PropertyRef Name="MaHD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NV_HOATDONG_HOAT_DONG">
+    <End Role="HOAT_DONG" Type="Self.HOAT_DONG" Multiplicity="1" />
+    <End Role="HD_NHAN_VIEN" Type="Self.HD_NHAN_VIEN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HOAT_DONG">
+        <PropertyRef Name="MaHD" />
+      </Principal>
+      <Dependent Role="HD_NHAN_VIEN">
+        <PropertyRef Name="MaHD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SV_HOATDONG_NHAN_VIEN">
+    <End Role="NHAN_VIEN" Type="Self.NHAN_VIEN" Multiplicity="1" />
+    <End Role="HD_NHAN_VIEN" Type="Self.HD_NHAN_VIEN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NHAN_VIEN">
+        <PropertyRef Name="MSNV" />
+      </Principal>
+      <Dependent Role="HD_NHAN_VIEN">
+        <PropertyRef Name="MSNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HD_QUANLY_HD">
+    <End Role="HOAT_DONG" Type="Self.HOAT_DONG" Multiplicity="1" />
+    <End Role="HD_QUANLY" Type="Self.HD_QUANLY" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HOAT_DONG">
+        <PropertyRef Name="MaHD" />
+      </Principal>
+      <Dependent Role="HD_QUANLY">
+        <PropertyRef Name="MaHD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HD_QUANLY_QUAN_LY">
+    <End Role="QUAN_LY" Type="Self.QUAN_LY" Multiplicity="1" />
+    <End Role="HD_QUANLY" Type="Self.HD_QUANLY" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="QUAN_LY">
+        <PropertyRef Name="MaQL" />
+      </Principal>
+      <Dependent Role="HD_QUANLY">
+        <PropertyRef Name="MaQL" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HD_TAITRO_HD">
+    <End Role="HOAT_DONG" Type="Self.HOAT_DONG" Multiplicity="1" />
+    <End Role="HD_TAITRO" Type="Self.HD_TAITRO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HOAT_DONG">
+        <PropertyRef Name="MaHD" />
+      </Principal>
+      <Dependent Role="HD_TAITRO">
+        <PropertyRef Name="MaHD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HD_TAITRO_TAITRO">
+    <End Role="TAI_TRO" Type="Self.TAI_TRO" Multiplicity="1" />
+    <End Role="HD_TAITRO" Type="Self.HD_TAITRO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TAI_TRO">
+        <PropertyRef Name="ID_TaiTro" />
+      </Principal>
+      <Dependent Role="HD_TAITRO">
+        <PropertyRef Name="ID_TaiTro" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TAI_CHINH_HOAT_DONG">
+    <End Role="HOAT_DONG" Type="Self.HOAT_DONG" Multiplicity="1" />
+    <End Role="TAI_CHINH" Type="Self.TAI_CHINH" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HOAT_DONG">
+        <PropertyRef Name="MaHD" />
+      </Principal>
+      <Dependent Role="TAI_CHINH">
+        <PropertyRef Name="MaHD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PHU_TRACH_QUAN_LY">
+    <End Role="QUAN_LY" Type="Self.QUAN_LY" Multiplicity="1" />
+    <End Role="PHU_TRACH" Type="Self.PHU_TRACH" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="QUAN_LY">
+        <PropertyRef Name="MaQL" />
+      </Principal>
+      <Dependent Role="PHU_TRACH">
+        <PropertyRef Name="MaQL" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="quanlyeventskhachsanEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CO_SO" EntityType="Self.CO_SO" />
+    <EntitySet Name="DANH_GIA" EntityType="Self.DANH_GIA" />
+    <EntitySet Name="DANHGIA_DETAILS" EntityType="Self.DANHGIA_DETAILS" />
+    <EntitySet Name="DOI_TAC" EntityType="Self.DOI_TAC" />
+    <EntitySet Name="HANG_MUC" EntityType="Self.HANG_MUC" />
+    <EntitySet Name="HD_DOITAC" EntityType="Self.HD_DOITAC" />
+    <EntitySet Name="HD_NHAN_VIEN" EntityType="Self.HD_NHAN_VIEN" />
+    <EntitySet Name="HD_QUANLY" EntityType="Self.HD_QUANLY" />
+    <EntitySet Name="HD_TAITRO" EntityType="Self.HD_TAITRO" />
+    <EntitySet Name="HOAT_DONG" EntityType="Self.HOAT_DONG" />
+    <EntitySet Name="NHAN_VIEN" EntityType="Self.NHAN_VIEN" />
+    <EntitySet Name="PHU_TRACH" EntityType="Self.PHU_TRACH" />
+    <EntitySet Name="QUAN_LY" EntityType="Self.QUAN_LY" />
+    <EntitySet Name="TAI_CHINH" EntityType="Self.TAI_CHINH" />
+    <EntitySet Name="TAI_TRO" EntityType="Self.TAI_TRO" />
+    <AssociationSet Name="FK_NHAN_VIEN_CO_SO" Association="Self.FK_NHAN_VIEN_CO_SO">
+      <End Role="CO_SO" EntitySet="CO_SO" />
+      <End Role="NHAN_VIEN" EntitySet="NHAN_VIEN" />
+    </AssociationSet>
+    <AssociationSet Name="FK_QUAN_LY_CO_SO" Association="Self.FK_QUAN_LY_CO_SO">
+      <End Role="CO_SO" EntitySet="CO_SO" />
+      <End Role="QUAN_LY" EntitySet="QUAN_LY" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DANH_GIA_HOAT_DONG" Association="Self.FK_DANH_GIA_HOAT_DONG">
+      <End Role="HOAT_DONG" EntitySet="HOAT_DONG" />
+      <End Role="DANH_GIA" EntitySet="DANH_GIA" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DANH_GIA_NHAN_VIEN" Association="Self.FK_DANH_GIA_NHAN_VIEN">
+      <End Role="NHAN_VIEN" EntitySet="NHAN_VIEN" />
+      <End Role="DANH_GIA" EntitySet="DANH_GIA" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DANHGIA_DETAILS_DANH_GIA" Association="Self.FK_DANHGIA_DETAILS_DANH_GIA">
+      <End Role="DANH_GIA" EntitySet="DANH_GIA" />
+      <End Role="DANHGIA_DETAILS" EntitySet="DANHGIA_DETAILS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DANHGIA_DETAILS_HANG_MUC" Association="Self.FK_DANHGIA_DETAILS_HANG_MUC">
+      <End Role="HANG_MUC" EntitySet="HANG_MUC" />
+      <End Role="DANHGIA_DETAILS" EntitySet="DANHGIA_DETAILS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DT_HOATDONG_DOI_TAC" Association="Self.FK_DT_HOATDONG_DOI_TAC">
+      <End Role="DOI_TAC" EntitySet="DOI_TAC" />
+      <End Role="HD_DOITAC" EntitySet="HD_DOITAC" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DT_HOATDONG_HOAT_DONG" Association="Self.FK_DT_HOATDONG_HOAT_DONG">
+      <End Role="HOAT_DONG" EntitySet="HOAT_DONG" />
+      <End Role="HD_DOITAC" EntitySet="HD_DOITAC" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NV_HOATDONG_HOAT_DONG" Association="Self.FK_NV_HOATDONG_HOAT_DONG">
+      <End Role="HOAT_DONG" EntitySet="HOAT_DONG" />
+      <End Role="HD_NHAN_VIEN" EntitySet="HD_NHAN_VIEN" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SV_HOATDONG_NHAN_VIEN" Association="Self.FK_SV_HOATDONG_NHAN_VIEN">
+      <End Role="NHAN_VIEN" EntitySet="NHAN_VIEN" />
+      <End Role="HD_NHAN_VIEN" EntitySet="HD_NHAN_VIEN" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HD_QUANLY_HD" Association="Self.FK_HD_QUANLY_HD">
+      <End Role="HOAT_DONG" EntitySet="HOAT_DONG" />
+      <End Role="HD_QUANLY" EntitySet="HD_QUANLY" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HD_QUANLY_QUAN_LY" Association="Self.FK_HD_QUANLY_QUAN_LY">
+      <End Role="QUAN_LY" EntitySet="QUAN_LY" />
+      <End Role="HD_QUANLY" EntitySet="HD_QUANLY" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HD_TAITRO_HD" Association="Self.FK_HD_TAITRO_HD">
+      <End Role="HOAT_DONG" EntitySet="HOAT_DONG" />
+      <End Role="HD_TAITRO" EntitySet="HD_TAITRO" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HD_TAITRO_TAITRO" Association="Self.FK_HD_TAITRO_TAITRO">
+      <End Role="TAI_TRO" EntitySet="TAI_TRO" />
+      <End Role="HD_TAITRO" EntitySet="HD_TAITRO" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TAI_CHINH_HOAT_DONG" Association="Self.FK_TAI_CHINH_HOAT_DONG">
+      <End Role="HOAT_DONG" EntitySet="HOAT_DONG" />
+      <End Role="TAI_CHINH" EntitySet="TAI_CHINH" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PHU_TRACH_QUAN_LY" Association="Self.FK_PHU_TRACH_QUAN_LY">
+      <End Role="QUAN_LY" EntitySet="QUAN_LY" />
+      <End Role="PHU_TRACH" EntitySet="PHU_TRACH" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

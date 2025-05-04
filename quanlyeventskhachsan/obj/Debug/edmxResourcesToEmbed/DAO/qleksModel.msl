@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="quanlyeventskhachsanModelStoreContainer" CdmEntityContainer="quanlyeventskhachsanEntities">
+    <EntitySetMapping Name="CO_SO">
+      <EntityTypeMapping TypeName="quanlyeventskhachsanModel.CO_SO">
+        <MappingFragment StoreEntitySet="CO_SO">
+          <ScalarProperty Name="MaCoSo" ColumnName="MaCoSo" />
+          <ScalarProperty Name="TenCoSo" ColumnName="TenCoSo" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="NgayThanhLap" ColumnName="NgayThanhLap" />
+          <ScalarProperty Name="Hide" ColumnName="Hide" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DANH_GIA">
+      <EntityTypeMapping TypeName="quanlyeventskhachsanModel.DANH_GIA">
+        <MappingFragment StoreEntitySet="DANH_GIA">
+          <ScalarProperty Name="MaDanhGia" ColumnName="MaDanhGia" />
+          <ScalarProperty Name="MaHD" ColumnName="MaHD" />
+          <ScalarProperty Name="MSNV" ColumnName="MSNV" />
+          <ScalarProperty Name="NoiDung" ColumnName="NoiDung" />
+          <ScalarProperty Name="Hide" ColumnName="Hide" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DANHGIA_DETAILS">
+      <EntityTypeMapping TypeName="quanlyeventskhachsanModel.DANHGIA_DETAILS">
+        <MappingFragment StoreEntitySet="DANHGIA_DETAILS">
+          <ScalarProperty Name="MaDanhGia" ColumnName="MaDanhGia" />
+          <ScalarProperty Name="HangMuc" ColumnName="HangMuc" />
+          <ScalarProperty Name="MucDo" ColumnName="MucDo" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DOI_TAC">
+      <EntityTypeMapping TypeName="quanlyeventskhachsanModel.DOI_TAC">
+        <MappingFragment StoreEntitySet="DOI_TAC">
+          <ScalarProperty Name="ID_DoiTac" ColumnName="ID_DoiTac" />
+          <ScalarProperty Name="TenDoiTac" ColumnName="TenDoiTac" />
+          <ScalarProperty Name="DaiDien" ColumnName="DaiDien" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Hide" ColumnName="Hide" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HANG_MUC">
+      <EntityTypeMapping TypeName="quanlyeventskhachsanModel.HANG_MUC">
+        <MappingFragment StoreEntitySet="HANG_MUC">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TenHangMuc" ColumnName="TenHangMuc" />
+          <ScalarProperty Name="Hide" ColumnName="Hide" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HD_DOITAC">
+      <EntityTypeMapping TypeName="quanlyeventskhachsanModel.HD_DOITAC">
+        <MappingFragment StoreEntitySet="HD_DOITAC">
+          <ScalarProperty Name="ID_DoiTac" ColumnName="ID_DoiTac" />
+          <ScalarProperty Name="MaHD" ColumnName="MaHD" />
+          <ScalarProperty Name="NoiDung" ColumnName="NoiDung" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HD_NHAN_VIEN">
+      <EntityTypeMapping TypeName="quanlyeventskhachsanModel.HD_NHAN_VIEN">
+        <MappingFragment StoreEntitySet="HD_NHAN_VIEN">
+          <ScalarProperty Name="MaHD" ColumnName="MaHD" />
+          <ScalarProperty Name="MSNV" ColumnName="MSNV" />
+          <ScalarProperty Name="VaiTro" ColumnName="VaiTro" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HD_QUANLY">
+      <EntityTypeMapping TypeName="quanlyeventskhachsanModel.HD_QUANLY">
+        <MappingFragment StoreEntitySet="HD_QUANLY">
+          <ScalarProperty Name="MaHD" ColumnName="MaHD" />
+          <ScalarProperty Name="MaQL" ColumnName="MaQL" />
+          <ScalarProperty Name="VaiTro" ColumnName="VaiTro" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HD_TAITRO">
+      <EntityTypeMapping TypeName="quanlyeventskhachsanModel.HD_TAITRO">
+        <MappingFragment StoreEntitySet="HD_TAITRO">
+          <ScalarProperty Name="ID_TaiTro" ColumnName="ID_TaiTro" />
+          <ScalarProperty Name="MaHD" ColumnName="MaHD" />
+          <ScalarProperty Name="NoiDung" ColumnName="NoiDung" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HOAT_DONG">
+      <EntityTypeMapping TypeName="quanlyeventskhachsanModel.HOAT_DONG">
+        <MappingFragment StoreEntitySet="HOAT_DONG">
+          <ScalarProperty Name="MaHD" ColumnName="MaHD" />
+          <ScalarProperty Name="TenHoatDong" ColumnName="TenHoatDong" />
+          <ScalarProperty Name="Loai" ColumnName="Loai" />
+          <ScalarProperty Name="NgayBatDau" ColumnName="NgayBatDau" />
+          <ScalarProperty Name="NgayKetThuc" ColumnName="NgayKetThuc" />
+          <ScalarProperty Name="Hide" ColumnName="Hide" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NHAN_VIEN">
+      <EntityTypeMapping TypeName="quanlyeventskhachsanModel.NHAN_VIEN">
+        <MappingFragment StoreEntitySet="NHAN_VIEN">
+          <ScalarProperty Name="MSNV" ColumnName="MSNV" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="CoSo" ColumnName="CoSo" />
+          <ScalarProperty Name="Hide" ColumnName="Hide" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PHU_TRACH">
+      <EntityTypeMapping TypeName="quanlyeventskhachsanModel.PHU_TRACH">
+        <MappingFragment StoreEntitySet="PHU_TRACH">
+          <ScalarProperty Name="MaQL" ColumnName="MaQL" />
+          <ScalarProperty Name="SuKien" ColumnName="SuKien" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="QUAN_LY">
+      <EntityTypeMapping TypeName="quanlyeventskhachsanModel.QUAN_LY">
+        <MappingFragment StoreEntitySet="QUAN_LY">
+          <ScalarProperty Name="MaQL" ColumnName="MaQL" />
+          <ScalarProperty Name="HoTenLot" ColumnName="HoTenLot" />
+          <ScalarProperty Name="Ten" ColumnName="Ten" />
+          <ScalarProperty Name="CoSo" ColumnName="CoSo" />
+          <ScalarProperty Name="Hide" ColumnName="Hide" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TAI_CHINH">
+      <EntityTypeMapping TypeName="quanlyeventskhachsanModel.TAI_CHINH">
+        <MappingFragment StoreEntitySet="TAI_CHINH">
+          <ScalarProperty Name="ID_TaiChinh" ColumnName="ID_TaiChinh" />
+          <ScalarProperty Name="MaHD" ColumnName="MaHD" />
+          <ScalarProperty Name="UEF" ColumnName="UEF" />
+          <ScalarProperty Name="TaiTro" ColumnName="TaiTro" />
+          <ScalarProperty Name="Khac" ColumnName="Khac" />
+          <ScalarProperty Name="TieuDe" ColumnName="TieuDe" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="Hide" ColumnName="Hide" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TAI_TRO">
+      <EntityTypeMapping TypeName="quanlyeventskhachsanModel.TAI_TRO">
+        <MappingFragment StoreEntitySet="TAI_TRO">
+          <ScalarProperty Name="ID_TaiTro" ColumnName="ID_TaiTro" />
+          <ScalarProperty Name="TenTaiTro" ColumnName="TenTaiTro" />
+          <ScalarProperty Name="DaiDien" ColumnName="DaiDien" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Hide" ColumnName="Hide" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
