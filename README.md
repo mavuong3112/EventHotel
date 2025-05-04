@@ -23,7 +23,9 @@ EventHotel is designed to address the inefficiencies of manual event management 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 <img src="https://img.icons8.com/color/96/000000/hotel.png" width="100"/>
-![image](https://github.com/user-attachments/assets/8d5a8e20-67ad-4bda-b1de-35413bdbb03d)
+
+![image](https://github.com/user-attachments/assets/5958a63e-6145-4f79-9cac-bbf8b1fd5171)
+
 
 Example Frame in Application
 
